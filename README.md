@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## I’m currently learning Machine Learning
+## I'm a computer engineering undergraduate 
 <!--
 **Hultcode/Hultcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
