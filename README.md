@@ -1,5 +1,5 @@
 ## Hi there 👋
-## Aspiring ASIC engineer
+## Design and Verification engineer
 ## I'm a computer engineering undergraduate 
 <!--
 **Hultcode/Hultcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
